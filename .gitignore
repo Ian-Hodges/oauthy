@@ -1,0 +1,5 @@
+﻿/appsettings.Development.json
+/.vs/oauthy
+/bin/Debug/net5.0
+/obj
+/oauthy.csproj.user
